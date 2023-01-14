@@ -9,5 +9,9 @@ pokemontype_classdiagram_sv_jp.drawio
 * 攻めと受けの関係性は矢印で見るとわかりやすいです。
 * わかりやすさを優先したため、UMLの記法どおりになっていない部分があります。
 
+## 紹介ブログ
+下のブログにてこちらのファイルのイメージ、作成した意図について紹介しています。
+* [ポケモンタイプ相性のUMLクラス図を作りました | CodeSeterpie（コードセタピー）](https://codeseterpie.com/blog/7zzmi512f)
+
 ## License
 [MIT](LICENSE)
