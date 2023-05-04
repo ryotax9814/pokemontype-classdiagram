@@ -12,12 +12,14 @@
   * drawio/pokemontype_classdiagram_sv_single_type_jp.drawio
 * ポケモンタイプ相性のUMLクラス図｜複合タイプ‐ほのお ([PDF](https://github.com/ryotax9814/pokemontype-classdiagram/blob/main/pdf/pokemontype_classdiagram_sv_dual_fire_jp.pdf))
   * drawio/pokemontype_classdiagram_sv_dual_fire_jp.drawio
+* ポケモンタイプ相性のUMLクラス図｜複合タイプ‐みず ([PDF](https://github.com/ryotax9814/pokemontype-classdiagram/blob/main/pdf/pokemontype_classdiagram_sv_dual_water_jp.pdf))
+  * drawio/pokemontype_classdiagram_sv_dual_water_jp.drawio
 
 ## 紹介ブログ
 下のブログにてこれらの図の紹介しています。
 * [ポケモンタイプ相性のUMLクラス図を作りました | CodeSeterpie（コードセタピー）](https://codeseterpie.com/blog/7zzmi512f)
-* [ポケモンタイプ相性のUMLクラス図｜単タイプ | CodeSeterpie（コードセタピー）](https://codeseterpie.com/blog/nb1rovrbfhx/)
-* [ポケモンタイプ相性のUMLクラス図｜複合タイプ‐ほのお | CodeSeterpie（コードセタピー）](https://codeseterpie.com/blog/rx09iseq1-t/)
+* [クラス図で作ったポケモンタイプ相性一覧｜単タイプ | CodeSeterpie（コードセタピー）](https://codeseterpie.com/blog/nb1rovrbfhx/)
+* [クラス図で作ったポケモンタイプ相性一覧｜複合タイプ‐ほのお | CodeSeterpie（コードセタピー）](https://codeseterpie.com/blog/rx09iseq1-t/)
 
 ## License
 [CC-BY-4.0 license](LICENSE)
